@@ -105,7 +105,7 @@ class DigitalNetworkMonitor:
     def show_tray_context_menu(self):
         """Show context menu triggered by tray icon."""
         self.root.deiconify()  # Make the root visible
-        self.root.geometry("300x200")  # Example position/size for the root window
+        # self.root.geometry("300x200")  # Example position/size for the root window
         self.create_context_menu()
         # Show context menu near the application window (top-left corner as an example)
         self.context_menu.post(self.root.winfo_rootx() + 50, self.root.winfo_rooty() + 50)
