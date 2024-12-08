@@ -1,7 +1,6 @@
 
 
-```markdown
-# NetSpeed 2.0
+# NetSpeed 2.0 App 🌐🚀
 
 **NetSpeed 2.0** is a network speed monitoring application that tracks real-time download and upload speeds. With a sleek, customizable interface and system tray integration, it's designed to be lightweight and easy to use while providing essential network performance insights. 
 
@@ -36,7 +35,7 @@ pip install psutil pystray Pillow pywin32
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/NetSpeed-2.0.git
+   git clone https://github.com/Roshangedam/NetSpeed-2.0.git
    ```
 
 2. Navigate to the project directory:
@@ -114,13 +113,13 @@ We welcome contributions! If you'd like to improve the project, follow these ste
 
 If you have any questions or suggestions, feel free to contact the author:
 
-- **Email**: your-email@example.com
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+- **Email**: roshangedam1998@gmail.com.com
+- **GitHub**: [https://github.com/roshangedam](https://github.com/roshangedam)
 
 ## Donate
 
-If you enjoy this project, consider supporting its development. (Add your preferred donation platform details here, if applicable).
-```
+<!-- If you enjoy this project, consider supporting its development. (Add your preferred donation platform details here, if applicable).
+``` -->
 
 ### Key Sections:
 1. **Features**: Describes key functionalities.
@@ -136,5 +135,3 @@ If you enjoy this project, consider supporting its development. (Add your prefer
 11. **Contributing**: Explains how others can contribute.
 12. **Contact**: How users can get in touch with you.
 13. **Donate**: Optional, for any donation links.
-
-Replace placeholder links (e.g., your GitHub username and email) with your actual details. This template is ready for use and will help present your project professionally. Let me know if you need any adjustments!
