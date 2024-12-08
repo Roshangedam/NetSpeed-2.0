@@ -66,6 +66,22 @@ Once the app is running, you'll see your real-time network speeds (upload and do
 
 Settings like font, color, and transparency are saved locally in a configuration file. You can edit this file directly if needed, or reset the settings via the app interface.
 
+## Installation
+
+### Windows
+
+1. Download the executable (`.exe`) file from the official [Netspeed 2.0 SourceForge page](https://sourceforge.net/projects/netspeed-2-0/).
+2. Once downloaded, double-click the `.exe` file to run the application directly. No installation required.
+
+### Linux/MacOS (Optional)
+
+*Currently, Netspeed 2.0 is only available for Windows 10 and above.*
+
+## Usage
+
+Once the application is running, you can:
+- View the current download and upload speeds.
+
 ## Troubleshooting
 
 ### Common Issues:
