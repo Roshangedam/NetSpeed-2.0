@@ -30,7 +30,7 @@ To install the required dependencies, use the following command:
 pip install psutil pystray Pillow pywin32
 ```
 
-## Installation
+## Project Configuration
 
 1. Clone the repository:
 
